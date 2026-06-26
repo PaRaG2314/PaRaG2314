@@ -42,18 +42,6 @@ Final-year CS student comfortable across the full stack — from Django backends
 
 ---
 
-## 🚀 Projects
-
-**[MoviFy](https://github.com/PaRaG2314)** — AI-Powered Movie Recommendation System  
-`Python` `Scikit-learn` `TMDB API` `HTML` `CSS`  
-Content-based filtering engine over 1,000+ titles with TMDB & YouTube API integration and a chatbot interface. Achieved **85%+ recommendation relevance** with sub-second response times.
-
-**[StyleCart](https://github.com/PaRaG2314)** — Full Stack E-Commerce Platform  
-`Django` `MySQL` `HTML5` `CSS3` `Bootstrap`  
-End-to-end e-commerce platform with cart, order management, and user auth. Handles **50+ product listings** with optimized DB queries and a fully responsive storefront.
-
----
-
 ## 📜 Certifications
 
 - **IBM Deep Learning with PyTorch, Keras & TensorFlow** — Professional Certificate *(Coursera)*
