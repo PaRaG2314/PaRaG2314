@@ -24,7 +24,7 @@ Final-year CS student comfortable across the full stack — from Django backends
 | **Databases** | MySQL |
 | **Data & AI** | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, PyTorch, Generative AI |
 | **BI & Analytics** | Power BI, Tableau, Excel |
-| **Tools** | Git, VS Code |
+| **Tools** | Git, VS Code, Razorpay |
 
 ---
 
