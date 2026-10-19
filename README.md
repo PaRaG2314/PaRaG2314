@@ -11,7 +11,7 @@ B.Tech CSE @ Chitkara University, Punjab · Graduating 2026
 
 ## About Me
 
-Final-year CS student comfortable across the full stack — from Django backends and MySQL query optimization to scikit-learn pipelines and Power BI dashboards. I've interned in both ML and full-stack roles, shipping real deliverables in both.
+Computer Science student comfortable across the full stack — from Django backends and MySQL query optimization to scikit-learn pipelines and Power BI dashboards. I've interned in both ML and full-stack roles, shipping real deliverables in both.
 
 ---
 
