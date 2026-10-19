@@ -1,6 +1,6 @@
 # Hi, I'm Parag Pratim Pan 👋
 
-**CS undergrad · Full Stack Developer · ML Enthusiast**  
+**CSV Apprentice · Full Stack Developer · ML Enthusiast**  
 B.Tech CSE @ Chitkara University, Punjab · Graduating 2026
 
 [![Email](https://img.shields.io/badge/Email-paragpratimp4%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:paragpratimp4@gmail.com)
@@ -11,7 +11,7 @@ B.Tech CSE @ Chitkara University, Punjab · Graduating 2026
 
 ## About Me
 
-Computer Science student comfortable across the full stack — from Django backends and MySQL query optimization to scikit-learn pipelines and Power BI dashboards. I've interned in both ML and full-stack roles, shipping real deliverables in both.
+Computer Science graduate with a technical background spanning full-stack development, machine learning, and data analytics. Currently working as a **CSV (Computer System Validation) Apprentice at Mylan Laboratories Limited**, gaining knowledge of computerized system validation, data integrity, documentation, and quality processes in the pharmaceutical industry. Experienced in Django backends, MySQL databases, scikit-learn pipelines, and Power BI dashboards, with a strong interest in applying technology and analytical thinking to solve real-world problems.
 
 ---
 
@@ -24,11 +24,18 @@ Computer Science student comfortable across the full stack — from Django backe
 | **Databases** | MySQL |
 | **Data & AI** | Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, PyTorch, Generative AI |
 | **BI & Analytics** | Power BI, Tableau, Excel |
+| **CSV & Compliance** | Computer System Validation (CSV), GxP, Data Integrity, Good Documentation Practices |
 | **Tools** | Git, VS Code, Razorpay |
 
 ---
 
 ## 💼 Experience
+
+**CSV Apprentice** — Mylan Laboratories Limited  
+*September 2026 – Present*
+- Developing knowledge of Computer System Validation (CSV) processes in the pharmaceutical industry
+- Learning about GxP requirements, data integrity principles, and regulatory compliance
+- Building an understanding of validation documentation, computerized systems, and quality processes
 
 **Machine Learning Intern** — ThinkNext Technologies, Mohali
 - Built preprocessing pipelines (Pandas, NumPy); trained regression & classification models with cross-validation
